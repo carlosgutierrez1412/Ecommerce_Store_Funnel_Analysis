@@ -51,6 +51,6 @@ I used **SQL views** to organize the data transformation and **Power BI** to bui
 
 ## 📈 Dashboard Preview
 
-![screenshot](Ecommerce_Store_Funnel_Analysis/Ecommerce_Funnel_Dashboard.png)
+![screenshot](Ecommerce_Funnel_Dashboard.png)
 
 
