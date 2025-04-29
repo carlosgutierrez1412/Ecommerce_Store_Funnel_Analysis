@@ -1,7 +1,7 @@
 # 📊 Ecommerce Funnel Analysis Project
 
 ## Overview
-In this project, I analyzed real world ecommerce user behavior data from Kaggle to understand the customer journey through a traditional online sales funnel, from product views, to cart additions, to final purchases.  
+In this project, I analyzed real world ecommerce user behavior data from Kaggle (https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store) to understand the customer journey through a traditional online sales funnel, from product views, to cart additions, to final purchases.  
 The project simulates a real company analysis pipeline by connecting **SQL Server** and **Power BI** without manual exports.
 
 I used **SQL views** to organize the data transformation and **Power BI** to build a clean, insightful dashboard ready for presentation.
